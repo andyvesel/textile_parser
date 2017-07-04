@@ -1,2 +1,2 @@
 # textile_parser
-A script which parses info from e-shop serenadatex.ru and stores it into a google spreadsheet
+A script which parses info from e-shop and stores it into a google spreadsheet
